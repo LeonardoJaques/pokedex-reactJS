@@ -1,0 +1,2 @@
+# pokedex-reactJS
+Trainnig 
